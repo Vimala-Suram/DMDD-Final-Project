@@ -2,10 +2,10 @@ DATABASE MANAGEMENT AND DATABASE DESIGN
 
 CONTRIBUTORS
 
-Vimala Suram
-Gopal Anil Pillai
-Vandana Rangaswamy
-Nisarg Sheth
+Vimala Suram,
+Gopal Anil Pillai,
+Vandana Rangaswamy,
+Nisarg Sheth,
 Sanjana Srikanth Tikotikar
 
 
